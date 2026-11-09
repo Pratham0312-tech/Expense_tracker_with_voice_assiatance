@@ -1,0 +1,13 @@
+# Expense data - keep private
+expenses.csv
+
+# Python virtual environments
+.venv/
+.venv_expense/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
